@@ -37,7 +37,7 @@ const workExperienceData: WorkExperienceItem[] = [
     jobTitle: "Senior Software Engineer",
     description: [
       "Led migration of legacy Bootstrap components to RadixUI using TypeScript and React, reducing load times by 30%.",
-      "Improved front-end performance and accessibility with CSS-in-JS libraries (Styled Components, TailwindCSS) to create responsive, maintainable interfaces.",
+      "Improved front-end performance and accessibility with CSS-in-JS libraries (Styled Components, TailwindCSS) to create responsive, maintainable UI.",
       "Achieved a 90% time reduction in report generation by implementing an efficient Javascript automation solution.",
       "Built a full-stack web app with React (frontend) and Rust (backend) to automate data processing, saving 15 hours per week for insurance agents.",
       "Rewrote legacy Cobol/RPGLE code in Python, reducing claims processing time by 80% through in-memory caching.",
